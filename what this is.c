@@ -17,4 +17,6 @@ int main(void) {
   printf("the size of array is %d\n",sizeof(dynamicArray) );
   free(dynamicArray);
   return 0;
+
+  // now i have changed this file
 }
